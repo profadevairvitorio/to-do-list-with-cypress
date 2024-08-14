@@ -1,0 +1,15 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "description": "A simple to-do application with Cypress tests",
+  "main": "index.html",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
