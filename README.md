@@ -39,7 +39,15 @@ This is an example project that uses HTML, CSS, JavaScript, and Cypress for auto
     ```
 ## GitHub Actions Configuration
 
-   The GitHub Actions workflow is located in .github/workflows/cypress-tests.yml. This workflow is responsible for installing dependencies,     running tests, and generating reports.
+   The GitHub Actions workflow is located in .github/workflows/cypress-tests.yml. This workflow is responsible for installing dependencies,     
+   running tests, and generating reports.
+   ![image](https://github.com/user-attachments/assets/991a6b8d-7003-4118-bb4e-c1725918ace9)
+   ![image](https://github.com/user-attachments/assets/53001981-241a-4557-8eb0-37d87e3b1042)
+   ![image](https://github.com/user-attachments/assets/2d3a663b-5458-4f47-9358-dec18872c8fc)
+
+
+
+   
 
 ## Contributing
    If you’d like to contribute to this project:
