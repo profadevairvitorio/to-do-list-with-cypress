@@ -1,6 +1,6 @@
 describe('Todo List', () => {
     beforeEach(() => {
-        cy.visit('src/index.html');
+        cy.visit('index.html');
     });
 
     it('Should add a new task', () => {
