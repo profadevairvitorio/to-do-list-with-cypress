@@ -1,9 +1,11 @@
-const { defineConfig } = require("cypress");
+const { defineConfig } = require('cypress');
 
 module.exports = defineConfig({
   e2e: {
-    setupNodeEvents(on, config) {
-      // implement node event listeners here
-    },
+    baseUrl: 'http://localhost:8080',
+    supportFile: false,
+    video: false,
+    screenshotsFolder: 'cypress/screenshots',
+    defaultCommandTimeout: 8000,
   },
 });
