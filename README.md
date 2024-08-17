@@ -37,3 +37,18 @@ This is an example project that uses HTML, CSS, JavaScript, and Cypress for auto
     ```bash
     npx cypress run
     ```
+## GitHub Actions Configuration
+
+   The GitHub Actions workflow is located in .github/workflows/cypress-tests.yml. This workflow is responsible for installing dependencies,     running tests, and generating reports.
+
+## Contributing
+   If you’d like to contribute to this project:
+   
+   Fork the repository.
+   Create a new branch for your changes.
+   Make your changes and commit them.
+   Push your changes to your fork.
+   Submit a pull request to the main repository.
+## License
+   This project is licensed under the MIT License.
+       
