@@ -1,6 +1,9 @@
 ## Todo List With Cypress
 
 This is an example project that uses HTML, CSS, JavaScript, and Cypress for automated testing. The purpose of this repository is to demonstrate how to set up GitHub Actions to automatically run Cypress tests.
+![image](https://github.com/user-attachments/assets/de6f98fe-6ae3-46d6-a7b7-1f18a2df9cf4)
+
+You can test the application at: #
 
 ## Project Structure
 
